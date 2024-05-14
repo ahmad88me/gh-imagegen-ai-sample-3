@@ -39,19 +39,18 @@
 
         <style>
 
-          ul {
+.nav {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
 }
 
-li {
+.nav li {
   float: left;
 }
 
-li a {
+.nav li a {
   display: block;
   color: white;
   text-align: center;
@@ -59,17 +58,17 @@ li a {
   text-decoration: none;
 }
 
-li a:hover:not(.active) {
+.nav li a:hover:not(.active) {
   background-color: #111;
 }
 
-.active {
-  background-color: #04AA6D;
+.nav .active {
+  background-color: #DDDDDD;
 }
           
         </style>
         
-        <ul>
+        <ul class="nav">
   <li><a class="active" href="#home">Home</a></li>
   <li><a href="#news">News</a></li>
   <li><a href="#contact">Contact</a></li>
