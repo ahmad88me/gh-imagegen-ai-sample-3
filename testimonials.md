@@ -11,9 +11,7 @@ We are proud to share some feedback from our happy customers and collaborators.
 ### John Doe
 **Company:** ABC Corp
 
-![John Doe](./assets/images/avatar_john.webp){: .avatar }
-
-> "Runzbuzz Technology Consulting provides innovative solutions that have transformed our approach to data analytics. Their hands-on support and expert guidance have been invaluable."
+![John Doe](./assets/images/avatar_john.webp){: .avatar } > "Runzbuzz Technology Consulting provides innovative solutions that have transformed our approach to data analytics. Their hands-on support and expert guidance have been invaluable."
 
 ---
 
