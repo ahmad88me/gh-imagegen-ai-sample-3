@@ -15,5 +15,5 @@ captivating images that reflect your creative intent.
 ## Sample Images
 | Image      | Prompt |
 | ----------- | ----------- |
-| ![hat!](/assets/images/sample_hat.png")| Draw a red hat       |
-| ![hat!](/assets/images/sample_robot.png")   | Draw an AI robot        |
+| ![hat!](./assets/images/sample_hat.png")| Draw a red hat       |
+| ![hat!](./assets/images/sample_robot.png")   | Draw an AI robot        |
