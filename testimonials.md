@@ -27,9 +27,8 @@ We are proud to share some feedback from our happy customers and collaborators.
 ### Emily Rivera
 **Company:** Digital Solutions
 
-
-
-> ![Emily Rivera](./assets/images/avatar_emily.webp){: .avatar } "Working with Runzbuzz has been a game-changer for our digital strategy. Their innovative AI solutions have not only enhanced our product offerings but also dramatically improved our operational efficiency. Their team is knowledgeable, responsive, and a pleasure to work with."
+![Emily Rivera](./assets/images/avatar_emily.webp){: .avatar }
+>  "Working with Runzbuzz has been a game-changer for our digital strategy. Their innovative AI solutions have not only enhanced our product offerings but also dramatically improved our operational efficiency. Their team is knowledgeable, responsive, and a pleasure to work with."
 
 ---
 
@@ -37,7 +36,6 @@ We are proud to share some feedback from our happy customers and collaborators.
 **Company:** EcoTech Ventures
 
 ![Wei Nguyen](./assets/images/avatar_wei.webp){: .avatar } 
-
 > "Runzbuzz's approach to sustainable technology integration is impressive. Their commitment to tailoring AI solutions that respect environmental concerns has significantly helped us reduce our carbon footprint while optimizing our processes. Highly recommend for any eco-conscious businesses."
 
 
