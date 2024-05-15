@@ -13,10 +13,16 @@ Bring your creative visions to life with ImageGen, where your imagination sets t
 captivating images that reflect your creative intent.
     
 ## Sample Images
-| Image      | Prompt |
-| ----------- | ----------- |
-| ![hat!](./assets/images/sample_hat_256.png "hat")| Draw a red hat       |
-| ![robot!](./assets/images/sample_hat_256.png "robot")   | Draw an AI robot        |
+<table>
+    <tr>
+        <td>![hat!](./assets/images/sample_hat_256.png "hat")</td>
+        <td>draw a red hat</td> 
+    </tr>
+    <tr>
+        <td>![hat!](./assets/images/sample_hat2_256.png "hat")</td>
+        <td>Draw a cool wizard red hat</td> 
+    </tr>
 
+</table>
 
 
