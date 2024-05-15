@@ -15,11 +15,11 @@ captivating images that reflect your creative intent.
 ## Sample Images
 <table>
     <tr>
-        <td>![hat!](./assets/images/sample_hat_256.png "hat")</td>
+        <td> <img src="./assets/images/sample_hat_256.png"> </td>
         <td>draw a red hat</td> 
     </tr>
     <tr>
-        <td>![hat!](./assets/images/sample_hat2_256.png "hat")</td>
+        <td><img src="./assets/images/sample_hat2_256.png"></td>
         <td>Draw a cool wizard red hat</td> 
     </tr>
 
