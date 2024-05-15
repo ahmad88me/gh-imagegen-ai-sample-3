@@ -34,7 +34,7 @@ We are proud to share some feedback from our happy customers and collaborators.
 ![Britney Johnson](./assets/images/avatar_britney.webp){: .avatar }
 
 
-"The consultation services provided by Runzbuzz were pivotal in integrating AI into our existing systems efficiently. Their strategic insights have helped us stay ahead in a competitive market."
+> "The consultation services provided by Runzbuzz were pivotal in integrating AI into our existing systems efficiently. Their strategic insights have helped us stay ahead in a competitive market."
 
 ---
 
@@ -50,7 +50,7 @@ We are proud to share some feedback from our happy customers and collaborators.
 
 ![Wei Nguyen](./assets/images/avatar_wei.webp)  
 
-"Runzbuzz's approach to sustainable technology integration is impressive. Their commitment to tailoring AI solutions that respect environmental concerns has significantly helped us reduce our carbon footprint while optimizing our processes. Highly recommend for any eco-conscious businesses."
+> "Runzbuzz's approach to sustainable technology integration is impressive. Their commitment to tailoring AI solutions that respect environmental concerns has significantly helped us reduce our carbon footprint while optimizing our processes. Highly recommend for any eco-conscious businesses."
 
 
 
