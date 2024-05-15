@@ -11,7 +11,8 @@ layout: default
 
 Bring your creative visions to life with ImageGen, where your imagination sets the boundaries. Our advanced AI technology effortlessly transforms your descriptions into high-quality,
 captivating images that reflect your creative intent.
-    
+
+
 ## Sample Images
 <table>
     <tr>
