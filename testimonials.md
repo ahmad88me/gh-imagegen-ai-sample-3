@@ -56,6 +56,6 @@ We are proud to share some feedback from our happy customers and collaborators.
 
 
 
-_yay_
+
 
 [back](./)
