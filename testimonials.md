@@ -28,7 +28,7 @@ We are proud to share some feedback from our happy customers and collaborators.
 ---
 -->
 
-### ![Britney Johnson](./assets/images/avatar_britney.webp){: .avatar } Britney Johnson
+### Britney Johnson
 **Company:** Tech Innovations
 
 ![Britney Johnson](./assets/images/avatar_britney.webp){: .avatar }
@@ -41,7 +41,7 @@ We are proud to share some feedback from our happy customers and collaborators.
 ### Emily Rivera
 **Company:** Digital Solutions
 
-![Emily Rivera](./assets/images/avatar_emily.webp)  "Working with Runzbuzz has been a game-changer for our digital strategy. Their innovative AI solutions have not only enhanced our product offerings but also dramatically improved our operational efficiency. Their team is knowledgeable, responsive, and a pleasure to work with."
+![Emily Rivera](./assets/images/avatar_emily.webp){: .avatar }  "Working with Runzbuzz has been a game-changer for our digital strategy. Their innovative AI solutions have not only enhanced our product offerings but also dramatically improved our operational efficiency. Their team is knowledgeable, responsive, and a pleasure to work with."
 
 ---
 
